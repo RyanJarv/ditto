@@ -7,6 +7,7 @@ Mimic any binary
 Crash your computer:
 ```shell
 $ ./ditto
+??? # should have rtfm
 ```
 
 Anything else:
