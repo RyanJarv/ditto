@@ -21,6 +21,13 @@ module github.com/ryanjarv/ditto
 go 1.16
 ```
 
+Or everything else:
+```
+$ ln -s ditto cat
+$ ln -s ditto echo
+$ ./echo Hello from ditto | ./cat -
+Hello from ditto
+```
 
 ## Build
 
