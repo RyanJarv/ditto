@@ -21,7 +21,7 @@ module github.com/ryanjarv/ditto
 go 1.16
 ```
 
-Or everything else:
+Everything else:
 ```
 $ ln -s ditto cat
 $ ln -s ditto echo
