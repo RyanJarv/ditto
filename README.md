@@ -8,11 +8,6 @@ Just sprinkle on some code for logging stdin, let sit in prod for 2-3 weeks, and
 
 ## Examples
 
-???
-```shell
-$ ./ditto
-```
-
 Anything else:
 ```
 $ mv ./ditto ./ls
@@ -26,6 +21,11 @@ $ ln -s ditto cat
 $ ln -s ditto echo
 $ ./echo Hello from ditto | ./cat -
 Hello from ditto
+```
+
+### YOLO
+```shell
+$ ./ditto
 ```
 
 ## Build
